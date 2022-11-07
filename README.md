@@ -2,7 +2,9 @@
 
 This is a full stack application. 
 
-The front end is developed by ReactJS and Redux, the back end is developed by Spring boot 2.0.
+The front end is developed by ReactJS and Redux, the back end is developed by Spring boot.
+
+Use MySQL on Heroku as database.
 
 You can use this application to manage your project development on this website: 
 
