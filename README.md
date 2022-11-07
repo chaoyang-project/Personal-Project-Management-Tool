@@ -1,9 +1,12 @@
 # Personal-Project-Management-Tool
 
 This is a full stack application. 
+
 The front end is developed by ReactJS and Redux, the back end is developed by Spring boot 2.0.
 
-You can use this application to manage your project development on this website: https://agile-fortress-05247.herokuapp.com/
+You can use this application to manage your project development on this website: 
+
+https://agile-fortress-05247.herokuapp.com/
 
 ## Instructions:
 
