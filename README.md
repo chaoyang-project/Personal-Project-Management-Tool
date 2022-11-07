@@ -12,7 +12,7 @@ https://agile-fortress-05247.herokuapp.com/
 
 In the homepage, you can register new account or login your account.
 
-After your succefully login, you can create your projects.
+After successful login, you can create your projects.
 
 For each of your projects, you can create multiple tasks and set their status.
 
